@@ -261,10 +261,9 @@ button {
     color: var(--cor-principal-escura);
 }
 
-.titulo-secao h2 span,
 .sobre-texto h2 span,
 .cta h2 span {
-    color: var(--cor-principal-escura);
+    color: var(--cor-fundo);
 }
 
 .linha {
@@ -512,7 +511,7 @@ button {
     font-size: 32px;
     margin-bottom: 20px;
     font-family: "Playfair Display", serif;
-    color: var(--cor-terciaria);
+    color: var(--cor-fundo);
 }
 
 .rodape-links {
